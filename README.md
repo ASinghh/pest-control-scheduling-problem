@@ -2,7 +2,7 @@
 
 This a an example of simulative solution to a schedulling problem. Instead of formulating the problem as a CONSTRAINT PROGRAMMING or a SEARCH problem, I model it as a CURSOR in a uni-directional, finite horizon problem with optamility constraints beign applied to each descrete movement in time.
 
-The constraints are defined in the Problem Statement, defined in the PDF file.
+The constraints are defined in the Problem Statement, in the PDF file.
 
 Each Discrete step is one day long.
 
